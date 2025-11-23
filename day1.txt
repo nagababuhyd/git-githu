@@ -1,0 +1,52 @@
+
+
+SVN
+centralized
+no fork
+no branches
+
+version control systems server
+fork 
+distributed
+GitHub
+bitbucket
+GitLab
+azurerepos
+girit
+
+distributed version
+
+
+Procedure
+############################
+git install
+
+git config email
+git config username
+
+touch filename
+:wq! save 
+
+
+git
+git init    #########################working directory
+1 file 2 file 3 ile
+
+
+git add filename           ##############stage
+
+git commit -m "message"    ##########local repository
+
+
+git config email
+git config username
+
+git remote add origin https://github.com/your-username/your-repository.git
+git push origin master  ###############remote repository
+git status
+git pull 
+git log
+
+
+
+
